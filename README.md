@@ -1,5 +1,8 @@
 # Galgje
 
+## Gekozen
+c
+
 ## Te raden woord
 
 |.|.|.|.|.|.|.|.|
@@ -9,3 +12,5 @@
 ## Score
 ![gallow](./images/1.png)
 
+### Beurten
+1. c
