@@ -3,6 +3,7 @@
 ## Gekozen
 c
 d
+u
 
 ## Te raden woord
 
@@ -16,3 +17,4 @@ d
 ### Beurten
 1. c - fout
 2. d - fout
+3. u
