@@ -2,6 +2,7 @@
 
 ## Gekozen
 c
+d
 
 ## Te raden woord
 
@@ -14,3 +15,4 @@ c
 
 ### Beurten
 1. c - fout
+2. d
