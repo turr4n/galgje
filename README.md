@@ -4,6 +4,7 @@
 c
 d
 u
+e
 
 ## Te raden woord
 
@@ -18,3 +19,4 @@ u
 1. c - fout
 2. d - fout
 3. u - fout
+4. e
