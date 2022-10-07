@@ -5,6 +5,7 @@ c
 d
 u
 e
+o
 
 ## Te raden woord
 
@@ -20,3 +21,4 @@ e
 2. d - fout
 3. u - fout
 4. e - fout
+5. o
