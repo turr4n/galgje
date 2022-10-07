@@ -6,10 +6,16 @@ d
 u
 e
 o
+k
+l
+t
+z
+a
+k
 
 ## Te raden woord
 
-|.|.|o|o|.|.|.|.|
+|k|l|o|o|t|z|a|k|
 |-|-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|8|
 
@@ -22,3 +28,4 @@ o
 3. u - fout
 4. e - fout
 5. o - goed
+6. k l t z a k
